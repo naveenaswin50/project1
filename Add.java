@@ -4,6 +4,6 @@ public class Add {
         int a=10;
 
         int b=10;
-        System.out.println(a+b);
+        System.out.println(a*b);
     }
 }
